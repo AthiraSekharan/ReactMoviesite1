@@ -1,0 +1,1 @@
+export const SERVER_URL ="https://reactmoviesite-t617.onrender.com"
